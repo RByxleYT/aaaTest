@@ -1,0 +1,45 @@
+{
+  "name": "scroller",
+  "version": "4.3.6",
+  "description": "gud bot",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.5.1",
+    "enmap": "^5.8.4",
+    "http": "^0.0.1-security",
+    "moment": "^2.29.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milrato-Development/Easiest-Application.git"
+  },
+  "keywords": [
+    "application",
+    "apply",
+    "discord",
+    "bot",
+    "discordjs",
+    "developer",
+    "Milrato",
+    "easy",
+    "easiest",
+    "advanced",
+    "good",
+    "fast",
+    "emojis",
+    "reactions"
+  ],
+  "author": "RByxle#9999",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Milrato-Development/Easiest-Application/issues"
+  },
+  "homepage": "https://milrato.eu",
+  "devDependencies": {}
+}
